@@ -17,7 +17,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(script_dir)
 print("切换到工作目录：", os.getcwd())
 
-userId = input("请输入userId：")
+userId = input("请输入userId：1958417656637874177")
 start_time = time.time()
 # 别问为什么是中文 问就是我想不出来什么奇怪的英文变量名了
 题库学习 = {"articleId":"1672768716061863938","title":"题库学习","userId":userId,"ah":"","question":"1677233633049554945-1","quesType":"3"}
